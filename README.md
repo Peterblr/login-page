@@ -1,6 +1,6 @@
 # login-page
 
-[look](https://peterblr.github.io/01-huddle/)
+[look](https://peterblr.github.io/login-page/)
 
 ## Welcome! 👋
 
